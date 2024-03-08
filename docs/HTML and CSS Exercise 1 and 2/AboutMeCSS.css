@@ -31,10 +31,10 @@ h2
 
 .pic-of-young-me
 {
-    width: 75px;
+    width: 80px;
     height: auto;
     float: right;
-    margin-right: 230px;
+    margin-right: 475px;
 }
 
 .family
@@ -65,6 +65,17 @@ h4
 }
 
 h5
+{
+    font-size: 25px;
+}
+
+a
+{
+    font-size: 20px;
+    color: black
+}
+
+h6
 {
     font-size: 45px;
 }

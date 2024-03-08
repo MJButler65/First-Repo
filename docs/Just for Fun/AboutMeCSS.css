@@ -1,0 +1,70 @@
+body
+{
+    background: #FF9966;
+    color: black;
+}
+
+.profile-pic 
+{
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+
+h1
+{
+    font-size: 40px;
+    text-align: center;
+}
+
+p
+{
+    font-size: 15px;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+.pic-of-young-me
+{
+    width: 75px;
+    height: auto;
+    float: right;
+    margin-right: 230px;
+}
+
+.family
+{
+    width: 150px;
+    height: auto;
+    float: right;
+    margin-right: 200px;
+}
+
+h3
+{
+    font-size: 30px;
+}
+
+h4
+{
+    font-size: 30px;
+}
+
+.friends
+{
+    width: 150px;
+    height: auto;
+    float: right;
+    margin-right: 20px;
+    
+}
+
+h5
+{
+    font-size: 45px;
+}
